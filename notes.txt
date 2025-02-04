@@ -1,0 +1,9 @@
+Arithmetic Operations
+
+1. Addition (add_result)
+2. Subtraction (sub_result)
+3. Multiplication (mul_result)
+4. Division (div_result)
+5. Modulus (mod_result)
+6. Increment (inc_result)
+7. Decrement (`dec_result')
